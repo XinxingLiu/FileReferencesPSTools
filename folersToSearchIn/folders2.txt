@@ -1,0 +1,7 @@
+D:\dd\VS\src\cdfvstools\cdf\LCI\*
+D:\dd\VS\src\cdfvstools\cdf\LocProjects\*
+D:\dd\VS\src\cdfvstools\cdf\Specs\*
+D:\dd\VS\src\cdfvstools\cdf\src\*
+D:\dd\VS\src\cdfvstools\cdf\suitesrc\*
+D:\dd\VS\src\cdfvstools\cdf\tools\*
+D:\dd\VS\src\cdfvstools\cdf\cdf\*

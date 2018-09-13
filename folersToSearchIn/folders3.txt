@@ -1,0 +1,3 @@
+D:\dd\VS\src\cdfvstools\cdf\test\*proj
+D:\dd\VS\src\cdfvstools\cdf\testcommon\*proj
+D:\dd\VS\src\cdfvstools\cdf\suitesrc\*proj

@@ -1,0 +1,8 @@
+WorkflowProjectUI
+Microsoft.Workflow.VSDesignerUI
+WorkflowProject
+WorkflowDebugHost
+Microsoft.Workflow.DebugController
+Microsoft.Workflow.ExpressionEvaluation
+Microsoft.Workflow.VSDesigner
+System.Workflow.ComponentModel

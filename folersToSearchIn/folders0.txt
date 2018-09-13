@@ -1,0 +1,7 @@
+D:\dd\VS\src\setup\*
+D:\dd\VS\src\SetupAuthoring\*
+D:\dd\VS\src\SetupManifests\*
+D:\dd\VS\src\SetupModules\*
+D:\dd\VS\src\SetupNugets\*
+D:\dd\VS\src\SetupPackages\*
+D:\dd\VS\src\SetupProjects\*

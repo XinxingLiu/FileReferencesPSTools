@@ -1,0 +1,5 @@
+src/SetupAuthoring/setup/SKUs/WFDesignerLegacy_Agile.dds
+src/SetupPackages/Group/PackageGroup/WorkflowV1/Microsoft.VisualStudio.PackageGroup.WorkflowV1.swixproj
+src/SetupPackages/Group/PackageGroup/WorkflowV1/packageGroup.swr
+src/SetupPackages/Group/PackageGroup/WorkflowV1/revision.txt
+src/SetupPackages/LCI/Workflow/Workflowv1/res/FileAssociations/ext.xoml.swr.lci
